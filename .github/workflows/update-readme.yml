@@ -1,0 +1,46 @@
+name: Update README with Wakatime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows you to manually run this action
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Wakatime Stats
+        run: |
+          curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days" \
+          -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" \
+          -o wakatime.json
+
+      - name: Update README.md
+        run: |
+          TOTAL_TIME=$(jq -r '.data.human_readable_total' wakatime.json)
+          TS_TIME=$(jq -r '.data.languages[] | select(.name=="TypeScript") | .text' wakatime.json)
+          JS_TIME=$(jq -r '.data.languages[] | select(.name=="JavaScript") | .text' wakatime.json)
+          CSS_TIME=$(jq -r '.data.languages[] | select(.name=="CSS") | .text' wakatime.json)
+          JSON_TIME=$(jq -r '.data.languages[] | select(.name=="JSON") | .text' wakatime.json)
+
+          sed -i '/<!-- WAKATIME-START -->/,/<!-- WAKATIME-END -->/c\<!-- WAKATIME-START -->\n\
+          📊 **Weekly Development Breakdown**  \n\
+          - **Total Coding Time:** '"$TOTAL_TIME"'  \n\
+          - **TypeScript:** '"$TS_TIME"'  \n\
+          - **JavaScript:** '"$JS_TIME"'  \n\
+          - **CSS:** '"$CSS_TIME"'  \n\
+          - **JSON:** '"$JSON_TIME"'  \n\
+          <!-- WAKATIME-END -->' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated Wakatime stats in README"
+          git push
+        continue-on-error: true
