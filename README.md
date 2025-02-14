@@ -49,12 +49,6 @@ I also enjoy solving **Data Structures & Algorithms (DSA) in C++** to enhance my
 
 ---
 
-<!-- WAKATIME-START -->
-📊 **Weekly Development Breakdown**  
-<!-- WAKATIME-END -->
-
----
-
 ## 📈 Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadali-07&layout=compact&theme=tokyonight"/>
