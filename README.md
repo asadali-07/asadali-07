@@ -1,8 +1,13 @@
-<h1 align="center">👋 Hi, I’m Asad Ali</h1>  
-<h3 align="center">🚀 Full-Stack Web Developer | Problem Solver | Tech Enthusiast</h3>  
+<h1 align="center">Hi, I’m Asad Ali</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | DSA in C++</h3>
 
-I specialize in **frontend and backend development**, leveraging modern technologies to build seamless user experiences.  
-I also enjoy solving **Data Structures & Algorithms (DSA) in C++** to enhance my problem-solving skills.  
+<p align="center">
+I am a <strong>Full-Stack Web Developer</strong> with hands-on experience in building scalable and responsive web applications using modern technologies.
+I focus on developing clean, efficient solutions across both frontend and backend, while continuously strengthening my
+<strong>problem-solving skills through Data Structures & Algorithms in C++</strong>.
+<br/><br/>
+I am actively preparing for <strong>software development internships</strong> and enjoy working on real-world projects that combine performance, usability, and maintainable code.
+</p>
 
 ---
 
