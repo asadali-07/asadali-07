@@ -43,7 +43,7 @@ I also enjoy solving **Data Structures & Algorithms (DSA) in C++** to enhance my
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadali-07&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asadali-07&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadali-07&theme=tokyonight" height="165"/>
 </p>  
 
@@ -51,8 +51,8 @@ I also enjoy solving **Data Structures & Algorithms (DSA) in C++** to enhance my
 
 ## 📈 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadali-07&layout=compact&theme=tokyonight"/>
-</p>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadali-07&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -65,7 +65,7 @@ I also enjoy solving **Data Structures & Algorithms (DSA) in C++** to enhance my
 
 ## 📫 Let's Connect  
 <p align="left">
-  <a href="https://codolio.com/profile/asadali_07" target="_blank">
+  <a href="https://myportfolio-app-ochre.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff4088?style=for-the-badge&logo=Codolio&logoColor=white" alt="Codolio Profile"/>
   </a>
   <a href="https://www.instagram.com/heyy.asad__/" target="_blank">
