@@ -1,12 +1,16 @@
-<h1 align="center">Hi, I’m Asad Ali</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | DSA in C++</h3>
+<h1 align="center">Hi, I'm Asad Ali 👋</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | Software Developer</h3>
 
 <p align="center">
-I am a <strong>Full-Stack Web Developer</strong> with hands-on experience in building scalable and responsive web applications using modern technologies.
-I focus on developing clean, efficient solutions across both frontend and backend, while continuously strengthening my
-<strong>problem-solving skills through Data Structures & Algorithms in C++</strong>.
-<br/><br/>
-I am actively preparing for <strong>software development internships</strong> and enjoy working on real-world projects that combine performance, usability, and maintainable code.
+I am a <strong>Computer Science graduate</strong> and a <strong>Full-Stack Web Developer</strong> with hands-on experience in building scalable, responsive, and user-friendly web applications using the <strong>MERN Stack</strong> (MongoDB, Express.js, React.js, and Node.js).
+</p>
+
+<p align="center">
+I enjoy developing clean, efficient, and maintainable solutions across both the frontend and backend. Alongside web development, I continuously improve my <strong>Data Structures & Algorithms (DSA) skills in C++</strong> to write optimized and high-performance code.
+</p>
+
+<p align="center">
+I am currently <strong>seeking Full-Stack Developer or Software Developer opportunities</strong> where I can contribute to real-world projects, collaborate with talented teams, and continue growing as a software engineer.
 </p>
 
 ---
@@ -49,7 +53,7 @@ I am actively preparing for <strong>software development internships</strong> an
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asadali-07&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadali-07&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=asadali-07&theme=tokyonight" />
 </p>  
 
 ---
