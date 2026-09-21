@@ -74,13 +74,13 @@ I am currently <strong>seeking Full-Stack Developer or Software Developer opport
 
 ## 📫 Let's Connect  
 <p align="left">
-  <a href="https://myportfolio-app-ochre.vercel.app" target="_blank">
+  <a href="https://asadalii.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff4088?style=for-the-badge&logo=Codolio&logoColor=white" alt="Codolio Profile"/>
   </a>
   <a href="https://www.instagram.com/heyy.asad__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohd-asad-ali-1a7693257/" target="_blank">
+  <a href="https://www.linkedin.com/in/asadali07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/asadali-07" target="_blank">
