@@ -50,17 +50,28 @@ I am currently <strong>seeking Full-Stack Developer or Software Developer opport
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asadali-07&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=asadali-07&theme=tokyonight" />
-</p>  
+  <img src="https://github-stats-extended.vercel.app/api?username=asadali-07&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+</p>
 
 ---
 
-## 📈 Top Languages  
+## 📈 Top Languages
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asadali-07&theme=tokyonight"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asadali-07&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=asadali-07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
